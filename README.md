@@ -10,6 +10,9 @@ The notebooks are organized into three main categories:
 - **Workshops/** → Training sessions & technical tutorials
 - **AI & Deep Learning/** → Advanced AI and deep learning projects
 - **Algorithms & Python/** → Algorithmic implementations and Python-based solutions
+- **LLMs/** → I work extensively with Large Language Models (LLMs) and related technologies in my professional projects. Given time constraints, I will do my best to publish updates regularly.
+- **Optimization/** → One of my favorite AI topics. My work spans from solving NP-hard problems during school (with metaheuristics) to applying Bayesian optimization and Hyperband for hyperparameter tuning in an ongoing time series forecasting project.
+
 
 ## 🔍 How to Use
 - Browse the relevant folder to find notebooks from specific events.
